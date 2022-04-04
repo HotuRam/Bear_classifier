@@ -1,7 +1,7 @@
 # Bear_classifier
 
 
-### I created the Bear classifier for black, grizzly, polar, panda, teddy with 98% accuracy.            
+### I created the Bear classifier for black, grizzly, polar, panda, and teddy with 99% accuracy.            
 
 ### I created the labelled dataset for my model by using selenium and webcraping
 
