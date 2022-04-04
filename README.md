@@ -1,6 +1,5 @@
 # Bear_classifier
 
-<br />
 
 ### I created the Bear classifier for black, grizzly, polar, panda, teddy with 98% accuracy.            
 
